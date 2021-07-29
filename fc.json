@@ -1,0 +1,24 @@
+{
+    "fc": {
+        "farmers":"442,213",
+        "country":"1",
+        "product":"32",
+        "hectares":"249,015.35"
+    },
+    "trader":{
+        "user":"149",
+        "revenue":"24,354,774"
+    },
+    "foods":{
+        "user":"2,138",
+        "revenue":"24,354,774"
+    },
+    "insurance":{
+        "user":"25",
+        "premium":"69,500"
+    },
+    "tech":{
+        "user":"8",
+        "revenue":"2"
+    }
+}
