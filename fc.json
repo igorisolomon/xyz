@@ -6,15 +6,13 @@
         "hectares":"249,015.35"
     },
     "trader":{
-        "user":"149",
-        "revenue":"24,354,774"
+        "user":"149"
     },
     "foods":{
-        "user":"2,138",
-        "revenue":"24,354,774"
+        "user":"2,138"
     },
     "insurance":{
-        "user":"25",
+        "user":"60",
         "premium":"69,500"
     },
     "tech":{
