@@ -3,7 +3,9 @@
         "farmers":"442,213",
         "country":"1",
         "product":"32",
-        "hectares":"249,015.35"
+        "hectares":"249,015.35",
+        "users": "27,971",
+        "agricsquare": "25,624"
     },
     "trader":{
         "user":"149"
