@@ -18,7 +18,8 @@
         "premium":"69,500"
     },
     "tech":{
-        "user":"8",
-        "revenue":"2"
+        "user":"8"
+        // ,
+        // "revenue":"2"
     }
 }
